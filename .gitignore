@@ -1,0 +1,15 @@
+
+# Dependencias de Node.js
+node_modules/
+
+# Variables de entorno y contraseñas
+.env
+
+# Archivos de registro
+*.log
+
+# Archivos temporales
+tmp/
+
+# Configuración personal de VS Code
+.vscode/
